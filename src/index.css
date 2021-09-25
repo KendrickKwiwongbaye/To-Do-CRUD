@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+}
+
+.btn-primary:focus,
+.btn-primary:active{
+    box-shadow:none ;
+    outline:0px ;
+}
+
+.btn-primary:hover{
+    background-color: rgb(23, 26, 204);
+}
+
+.btn-primary{
+    position: relative;
+    left: 15rem;
+    top: 3.2rem;
+}
+
+.inputTask{
+    position: relative;
+    top: 100px;
+    left: 200px;
+    font-family: 'Oswald', sans-serif;
+    width: 400px;
+    margin-top: -20px;
+}
+
+.deleteTask{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    margin: 8px 2px;
+    z-index: 100;
+    left: 400px;
+    top: 56px;
+}
+
+input{
+    position: relative;
+    height: 20px;
+    margin: 8px 2px;
+    z-index: 100;
+    left: 195px;
+    top: 56px; 
+    outline: none;
+}
