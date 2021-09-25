@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/To-Do-CRUD/static/css/main.bc173d77.chunk.css",
+    "main.js": "/To-Do-CRUD/static/js/main.00deec41.chunk.js",
+    "main.js.map": "/To-Do-CRUD/static/js/main.00deec41.chunk.js.map",
+    "runtime-main.js": "/To-Do-CRUD/static/js/runtime-main.6be009dd.js",
+    "runtime-main.js.map": "/To-Do-CRUD/static/js/runtime-main.6be009dd.js.map",
+    "static/js/2.7fbda891.chunk.js": "/To-Do-CRUD/static/js/2.7fbda891.chunk.js",
+    "static/js/2.7fbda891.chunk.js.map": "/To-Do-CRUD/static/js/2.7fbda891.chunk.js.map",
+    "index.html": "/To-Do-CRUD/index.html",
+    "static/css/main.bc173d77.chunk.css.map": "/To-Do-CRUD/static/css/main.bc173d77.chunk.css.map",
+    "static/js/2.7fbda891.chunk.js.LICENSE.txt": "/To-Do-CRUD/static/js/2.7fbda891.chunk.js.LICENSE.txt",
+    "static/media/trash-347.d91cf280.svg": "/To-Do-CRUD/static/media/trash-347.d91cf280.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6be009dd.js",
+    "static/js/2.7fbda891.chunk.js",
+    "static/css/main.bc173d77.chunk.css",
+    "static/js/main.00deec41.chunk.js"
+  ]
+}
